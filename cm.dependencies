@@ -1,0 +1,39 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "boulzordev/android_kernel_lenovo_msm8929,
+    "target_path": "kernel/lenovo/msm8929",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "boulzordev/android_vendor_lenovo_A6020",
+    "target_path": "vendor/lenovo/A6020",
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "device/qcom/common",
+    "repository":  "CyanogenMod/android_device_qcom_common",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "external/sony/boringssl-compat",
+    "repository":  "CyanogenMod/android_external_sony_boringssl-compat",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "external/stlport",
+    "repository":  "CyanogenMod/android_external_stlport",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "external/bson",
+    "repository":  "CyanogenMod/android_external_bson",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  }
+]
+
