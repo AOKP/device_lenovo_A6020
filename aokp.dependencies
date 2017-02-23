@@ -1,8 +1,8 @@
 [
   {
     "remote":      "github",
-    "repository":  "boulzordev/android_kernel_lenovo_msm8929",
-    "target_path": "kernel/lenovo/msm8929",
+    "repository":  "boulzordev/android_kernel_lenovo_msm8916",
+    "target_path": "kernel/lenovo/msm8916",
     "branch":       "cm-14.1"
   },
   {
