@@ -23,10 +23,6 @@ $(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := aokp_A6020
-PRODUCT_MODEL := A6020
-PRODUCT_BRAND := lenovo
-PRODUCT_MANUFACTURER := lenovo
+PRODUCT_DEVICE := A6020
 
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME="Lenovo Vibe K5"
 
