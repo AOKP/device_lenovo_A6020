@@ -1,15 +1,8 @@
 [
   {
-    "remote":      "github",
-    "repository":  "boulzordev/android_kernel_lenovo_msm8916",
+    "repository":  "android_kernel_lenovo_msm8916",
     "target_path": "kernel/lenovo/msm8916",
-    "branch":       "cm-14.1"
-  },
-  {
-    "remote":      "github",
-    "repository":  "boulzordev/android_vendor_lenovo_A6020",
-    "target_path": "vendor/lenovo/A6020",
-    "branch":      "cm-14.1"
+    "remote":      "cm"
   },
   {
     "target_path": "device/qcom/common",
