@@ -25,4 +25,3 @@ $(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
 PRODUCT_NAME := aokp_A6020
 PRODUCT_DEVICE := A6020
 
-
